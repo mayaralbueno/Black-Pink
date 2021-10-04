@@ -6,7 +6,7 @@ BLACKPINK in your areaa
 <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 
 
-<img align='right' src="https://media.giphy.com/media/EfmXK1XIupQqnUzfRC/giphy.gif" width="200">
+<img align='right flex-center' src="https://media.giphy.com/media/fx5Eq1QkybZBYmfq7M/giphy.gif" width="500">
   
  
 

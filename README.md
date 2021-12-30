@@ -1,6 +1,6 @@
 # Black-Pink
 BLACKPINK in your areaa
-
+.
 🚧Ainda no segundo bloco utilizamos HTML e Bootstrap nessa ativadade 👨‍💻
 
 
